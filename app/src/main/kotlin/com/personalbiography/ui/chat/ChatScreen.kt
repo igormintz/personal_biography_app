@@ -8,6 +8,7 @@ import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
@@ -97,7 +98,12 @@ fun ChatScreen(onOpenSettings: () -> Unit) {
             )
         },
         bottomBar = {
-            Column {
+            Column(
+                modifier =
+                Modifier
+                    .navigationBarsPadding()
+                    .padding(bottom = 8.dp),
+            ) {
                 if (pending != null) {
                     PendingHint(pending = pending!!, onCancel = vm::cancelPending)
                 }
