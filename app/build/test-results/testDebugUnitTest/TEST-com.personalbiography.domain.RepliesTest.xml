@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.personalbiography.domain.RepliesTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2026-05-08T19:30:14" hostname="igor-mintz-MacBook-QTT4" time="0.021">
+  <properties/>
+  <testcase name="status transcribed includes timing and chars" classname="com.personalbiography.domain.RepliesTest" time="0.005"/>
+  <testcase name="status saving is step four" classname="com.personalbiography.domain.RepliesTest" time="0.0"/>
+  <testcase name="error message truncates long text" classname="com.personalbiography.domain.RepliesTest" time="0.003"/>
+  <testcase name="status transcribing is step two" classname="com.personalbiography.domain.RepliesTest" time="0.0"/>
+  <testcase name="error message includes class and text" classname="com.personalbiography.domain.RepliesTest" time="0.0"/>
+  <testcase name="status structuring is step four" classname="com.personalbiography.domain.RepliesTest" time="0.0"/>
+  <testcase name="status received prefers duration over size" classname="com.personalbiography.domain.RepliesTest" time="0.001"/>
+  <testcase name="format search truncates long transcript" classname="com.personalbiography.domain.RepliesTest" time="0.001"/>
+  <testcase name="format full bundle contains all sections" classname="com.personalbiography.domain.RepliesTest" time="0.002"/>
+  <testcase name="format questions lists each question" classname="com.personalbiography.domain.RepliesTest" time="0.0"/>
+  <testcase name="format search empty" classname="com.personalbiography.domain.RepliesTest" time="0.0"/>
+  <testcase name="error message is short hebrew" classname="com.personalbiography.domain.RepliesTest" time="0.0"/>
+  <testcase name="error message includes update id" classname="com.personalbiography.domain.RepliesTest" time="0.0"/>
+  <testcase name="error message no args returns generic" classname="com.personalbiography.domain.RepliesTest" time="0.0"/>
+  <testcase name="format compact is short" classname="com.personalbiography.domain.RepliesTest" time="0.003"/>
+  <testcase name="status received with size only is step one" classname="com.personalbiography.domain.RepliesTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

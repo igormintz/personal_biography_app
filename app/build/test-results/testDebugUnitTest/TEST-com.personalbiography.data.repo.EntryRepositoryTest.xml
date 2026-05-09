@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.personalbiography.data.repo.EntryRepositoryTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-05-08T19:30:13" hostname="igor-mintz-MacBook-QTT4" time="0.01">
+  <properties/>
+  <testcase name="create retries on short id collision" classname="com.personalbiography.data.repo.EntryRepositoryTest" time="0.005"/>
+  <testcase name="getByShortId is case-insensitive" classname="com.personalbiography.data.repo.EntryRepositoryTest" time="0.001"/>
+  <testcase name="setTranscript marks as editing by default" classname="com.personalbiography.data.repo.EntryRepositoryTest" time="0.001"/>
+  <testcase name="create generates short id and persists with current time" classname="com.personalbiography.data.repo.EntryRepositoryTest" time="0.001"/>
+  <testcase name="search empty term returns empty list" classname="com.personalbiography.data.repo.EntryRepositoryTest" time="0.001"/>
+  <testcase name="applyStructured updates fields and clears status" classname="com.personalbiography.data.repo.EntryRepositoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

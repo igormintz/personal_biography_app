@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.personalbiography.domain.StructuringTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-05-08T19:30:14" hostname="igor-mintz-MacBook-QTT4" time="0.007">
+  <properties/>
+  <testcase name="succeeds on second attempt after one failure" classname="com.personalbiography.domain.StructuringTest" time="0.003"/>
+  <testcase name="retries up to limit then gives up" classname="com.personalbiography.domain.StructuringTest" time="0.002"/>
+  <testcase name="unknown tag strings are dropped from a list" classname="com.personalbiography.domain.StructuringTest" time="0.0"/>
+  <testcase name="cost calc matches gpt-4o-mini price card" classname="com.personalbiography.domain.StructuringTest" time="0.0"/>
+  <testcase name="single attempt success" classname="com.personalbiography.domain.StructuringTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[structuring_giving_up: simulated bad json
+]]></system-err>
+</testsuite>

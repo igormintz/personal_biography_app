@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.personalbiography.data.remote.OpenAiTranscriberTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-05-08T19:30:13" hostname="igor-mintz-MacBook-QTT4" time="0.014">
+  <properties/>
+  <testcase name="multipart hits transcriptions endpoint with form fields" classname="com.personalbiography.data.remote.OpenAiTranscriberTest" time="0.012"/>
+  <testcase name="empty file fails fast without hitting the network" classname="com.personalbiography.data.remote.OpenAiTranscriberTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

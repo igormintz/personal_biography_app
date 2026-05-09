@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.personalbiography.domain.PipelineTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-05-08T19:30:13" hostname="igor-mintz-MacBook-QTT4" time="0.756">
+  <properties/>
+  <testcase name="text flow with structuring failure stays needs_structuring" classname="com.personalbiography.domain.PipelineTest" time="0.609"/>
+  <testcase name="reEdit replaces transcript and re-structures" classname="com.personalbiography.domain.PipelineTest" time="0.003"/>
+  <testcase name="text flow with structuring success persists ok status" classname="com.personalbiography.domain.PipelineTest" time="0.001"/>
+  <testcase name="voice flow records audio seconds + structure usage" classname="com.personalbiography.domain.PipelineTest" time="0.138"/>
+  <testcase name="restructure replaces structured fields without creating a new entry" classname="com.personalbiography.domain.PipelineTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[structuring_giving_up: boom
+]]></system-err>
+</testsuite>

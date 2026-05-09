@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.personalbiography.domain.CommandsTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-05-08T19:30:13" hostname="igor-mintz-MacBook-QTT4" time="0.004">
+  <properties/>
+  <testcase name="whitespace and case are normalized" classname="com.personalbiography.domain.CommandsTest" time="0.001"/>
+  <testcase name="unknown slash is Invalid" classname="com.personalbiography.domain.CommandsTest" time="0.0"/>
+  <testcase name="show requires id" classname="com.personalbiography.domain.CommandsTest" time="0.0"/>
+  <testcase name="questions edit tags restructure all take id" classname="com.personalbiography.domain.CommandsTest" time="0.001"/>
+  <testcase name="non-slash text is FreeText" classname="com.personalbiography.domain.CommandsTest" time="0.0"/>
+  <testcase name="usage and help" classname="com.personalbiography.domain.CommandsTest" time="0.0"/>
+  <testcase name="last with no arg" classname="com.personalbiography.domain.CommandsTest" time="0.001"/>
+  <testcase name="search requires text" classname="com.personalbiography.domain.CommandsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

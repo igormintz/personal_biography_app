@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.personalbiography.domain.ShortIdTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-05-08T19:30:14" hostname="igor-mintz-MacBook-QTT4" time="0.007">
+  <properties/>
+  <testcase name="length is 6 and uses crockford-ish alphabet" classname="com.personalbiography.domain.ShortIdTest" time="0.0"/>
+  <testcase name="random across many calls" classname="com.personalbiography.domain.ShortIdTest" time="0.004"/>
+  <testcase name="ambiguous characters are excluded" classname="com.personalbiography.domain.ShortIdTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

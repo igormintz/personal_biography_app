@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.personalbiography.data.remote.OpenAiStructurerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-05-08T19:30:12" hostname="igor-mintz-MacBook-QTT4" time="0.484">
+  <properties/>
+  <testcase name="non-conforming json raises SerializationException" classname="com.personalbiography.data.remote.OpenAiStructurerTest" time="0.458"/>
+  <testcase name="empty choices raises SerializationException" classname="com.personalbiography.data.remote.OpenAiStructurerTest" time="0.008"/>
+  <testcase name="structure parses chat completion content into Structured" classname="com.personalbiography.data.remote.OpenAiStructurerTest" time="0.009"/>
+  <testcase name="unknown tag values are rejected by deserialization" classname="com.personalbiography.data.remote.OpenAiStructurerTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

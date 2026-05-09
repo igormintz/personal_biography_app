@@ -1,0 +1,8 @@
+[90m/Users/igor/Documents/personal_biography_app/app/src/test/kotlin/com/personalbiography/domain/[0mStructuringTest.kt[90m:[0m20[90m:1:[0m Unexpected indentation (16) (should be 12) [90m(standard:indent)[0m
+[90m/Users/igor/Documents/personal_biography_app/app/src/test/kotlin/com/personalbiography/domain/[0mStructuringTest.kt[90m:[0m20[90m:21:[0m Unexpected indentation (20) (should be 16) [90m(standard:indent)[0m
+[90m/Users/igor/Documents/personal_biography_app/app/src/test/kotlin/com/personalbiography/domain/[0mStructuringTest.kt[90m:[0m21[90m:31:[0m Unexpected indentation (20) (should be 16) [90m(standard:indent)[0m
+[90m/Users/igor/Documents/personal_biography_app/app/src/test/kotlin/com/personalbiography/domain/[0mStructuringTest.kt[90m:[0m22[90m:25:[0m Unexpected indentation (20) (should be 16) [90m(standard:indent)[0m
+[90m/Users/igor/Documents/personal_biography_app/app/src/test/kotlin/com/personalbiography/domain/[0mStructuringTest.kt[90m:[0m23[90m:18:[0m Unexpected indentation (16) (should be 12) [90m(standard:indent)[0m
+
+Summary error count (descending) by rule:
+  standard:indent: 5
