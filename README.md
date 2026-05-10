@@ -1,4 +1,4 @@
-# Personal Biography (Android)
+# Personal autobiography (Android App) *vibecoding session*
 
 A native Android app that records Hebrew voice notes, transcribes them with
 OpenAI Whisper, structures the transcript with GPT-4o-mini, and stores
