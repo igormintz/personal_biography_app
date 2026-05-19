@@ -1,4 +1,4 @@
-# Personal autobiography (Android App) *vibecoding session*
+# Personal Biography (Android)
 
 A native Android app that records Hebrew voice notes, transcribes them with
 OpenAI Whisper, structures the transcript with GPT-4o-mini, and stores
@@ -9,6 +9,36 @@ This is a self-contained on-device port of the Telegram bot at
 `/Users/igor/Documents/personal_biography/` — no backend, no Postgres, no
 Vercel. The app calls OpenAI directly using a key stored in
 `EncryptedSharedPreferences`.
+
+## Demo
+
+End-to-end run on a real device — record a Hebrew voice note, watch it
+get transcribed by Whisper, structured by GPT-4o-mini, and land in the
+chat as a saved entry with tags, entities, and follow-up questions.
+
+<video src="docs/demo.mp4" controls width="320"></video>
+
+If your viewer doesn't play inline video, the file is at
+[`docs/demo.mp4`](docs/demo.mp4).
+
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshot-chat.jpeg" alt="RTL chat screen with two entries, follow-up questions, and the recorder bar" width="240" /><br/>
+      <sub>Chat — recorded entries with tags, entities, and follow-up questions</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshot-settings.jpeg" alt="Settings screen showing model selection, today's usage, and export" width="240" /><br/>
+      <sub>Settings — models, today's usage &amp; cost, export, danger zone</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshot-export.jpeg" alt="JSON export file opened on the phone showing structured entries" width="240" /><br/>
+      <sub>Export — pretty-printed JSON of all entries, on-device</sub>
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
